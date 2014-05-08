@@ -1,0 +1,6 @@
+c:\users\can you dig it\documents\visual studio 2012\Projects\Homework7_shane\bin\Debug\Homework7_shane.exe.config
+c:\users\can you dig it\documents\visual studio 2012\Projects\Homework7_shane\obj\Debug\Homework7_shane.csprojResolveAssemblyReference.cache
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\Homework7_shane\bin\Debug\Homework7_shane.exe
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\Homework7_shane\bin\Debug\Homework7_shane.pdb
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\Homework7_shane\obj\Debug\Homework7_shane.exe
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\Homework7_shane\obj\Debug\Homework7_shane.pdb
